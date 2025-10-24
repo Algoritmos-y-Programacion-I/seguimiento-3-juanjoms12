@@ -2,11 +2,7 @@ package model;
 
 public class SchoolController {
 
-    /*
-     * ATENCION !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-     * Agregue los atributos (relaciones) necesarios para satisfacer los
-     * requerimientos.
-     */
+  
 
     public SchoolController() {
 
