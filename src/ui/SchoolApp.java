@@ -28,7 +28,7 @@ public class SchoolApp {
 
         int option = 0;
         do {
-            System.out.println("\naMenu Principal");
+            System.out.println("\n Menu Principal");
             System.out.println("--------------------------------------------------------");
             System.out.println("Digite alguna de las siguientes opciones");
             System.out.println("1) Registrar computador");
